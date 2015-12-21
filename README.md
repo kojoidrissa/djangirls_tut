@@ -1,3 +1,3 @@
-#My blog, via the [Django Girls tutorial](http://tutorial.djangogirls.org/en/index.html)
+# The blog from the [Django Girls tutorial](http://tutorial.djangogirls.org/en/index.html)
 
-I'll probably use this code as the foundation for my personal site's blog.
+As of 2015-12-19, I'm testing this with Djano 1.9 and Python 3.4.3
